@@ -31,3 +31,9 @@ This is a beginner-friendly data analysis project focusing on Diwali Sales data.
 - `Diwali_Sales_Analysis.ipynb` – the complete Jupyter notebook with code and output.
 
 ---
+
+## Screenshots
+![1](https://github.com/user-attachments/assets/df2bb435-f657-4b34-8c8f-b39120af320d)
+![2](https://github.com/user-attachments/assets/603ffed9-8566-41b4-a43c-ba87dccd1aef)
+![3](https://github.com/user-attachments/assets/0a3d1865-7a57-4cea-81fb-590882427492)
+
